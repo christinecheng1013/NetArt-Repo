@@ -1,0 +1,65 @@
+h1 {
+    background-color: RoyalBlue;
+    color: black;
+    font-size: 3em;
+    border-radius: 10px 10px 10px 10px;
+  }
+  
+  h2 {
+    font-size: 2em;
+    font-weight: bold;
+    color: RoyalBlue;
+    border-radius: 10px 10px 10px 10px;
+  }
+  
+  .letters {
+    border: solid;
+    text-align: center;
+  }
+  .onoff {
+    background-color: Cyan;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+  }
+  
+  button {
+    display:inline-block
+    border: solid grey;
+    border-radius: 25px 25px 25px 25px;
+    padding: 4px;
+    margin: 40px;
+    height: 50px;
+    width: 70px;
+    background: linear-gradient(90deg, lightcyan, aquamarine, LightSkyBlue, lightcyan);
+  }
+  
+  .slider {
+    padding: 10px;
+    margin: 50px;
+    color: black;
+    background: linear-gradient(90deg, PaleTurquoise, SkyBlue, RoyalBlue, SkyBlue, PaleTurquoise);
+    border: solid grey;
+    border-radius: 25px 25px 25px 25px;
+  }
+  
+  input {
+    width: 90%;
+  }
+  
+  body {
+    background-color: LightSkyBlue;
+    border: solid;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px 10px 10px 10px;
+  }
+  
+  .userinterface {
+    background: linear-gradient(90deg, AliceBlue, Aqua,CornflowerBlue, Aqua, AliceBlue);
+    padding: 2px 2px 2px 2px;
+    border-radius: 10px 10px 10px 10px;
+    border: solid 4px LightGray;
+  }
+  
+  
