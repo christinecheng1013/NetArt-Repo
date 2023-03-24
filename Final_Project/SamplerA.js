@@ -1,7 +1,7 @@
 const players = new Tone.Players({
-  sample1: "https://christinecheng1013.github.io/NetArt-Repo/media/bubble2.wav",
-  sample2: "https://christinecheng1013.github.io/NetArt-Repo/media/bubble3.wav",
-  sample3: "https://christinecheng1013.github.io/NetArt-Repo/media/bubble4.wav"
+  sample1: "https://christinecheng1013.github.io/NetArt-Repo/docs/media/bubble2.wav",
+  sample2: "https://christinecheng1013.github.io/NetArt-Repo/docs/media/bubble3.wav",
+  sample3: "https://christinecheng1013.github.io/NetArt-Repo/docs/media/bubble4.wav"
 });
 
 let slider1 = document.getElementById("slider1");
